@@ -1,1 +1,2 @@
 # OpenAI-Gym-Challenge
+In this case, we want to use Atari games to see if deep reinforcement learning can let computer automatically play those games and try to get more scores episode by episode. If we can approve that the method could work well on Atari games, then we can use it to develop more complicated models like auto submarine to explore the deep ocean that human could not reach. So in this case we use Seaquest game to see the result.
